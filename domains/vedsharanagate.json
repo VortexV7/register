@@ -7,6 +7,5 @@
   },
   "records": {
     "CNAME": "cname.vercel-dns.com",
-    "TXT": "vc-domain-verify=www.vedsharanagate.is-a.dev,7a8abcc2d78f7b1be6dc"
   }
 }
